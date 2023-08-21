@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @juhaszszabolcs90
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning python language.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me? My e-mail address is: juhaszszabolcs90@gmail.com
+- 👋 Hi, I’m Juhász Szabolcs
 
-<!---
-juhaszszabolcs90/juhaszszabolcs90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 My Skills:
+Here are a few of my projects that I'm proud of:
+- Frontend: HTML, CSS, JavaScript
+- Backend: Python (Flask), Java, Javascript
+- Database: PostgreSQL
+- Devops: Bash, Docker, Kubernetes, AWS, Jenkins
+
+💻 Projects:
+
+Web Apps:
+https://github.com/CodecoolGlobal/freestyle-javascript-game-javascript-Z20LET
+https://github.com/CodecoolGlobal/ask-mate-3-python-juhaszszabolcs90
+https://github.com/CodecoolGlobal/proman-1-python-Z-Kiss
+https://github.com/CodecoolGlobal/codecool-shop-1-java-czlazlo
+
+Devops
+https://github.com/juhaszszabolcs90/AskMate_Szabi_version
+
+Here is my LinkedIn account: https://www.linkedin.com/in/szabolcs-juhász-5273b8223/
