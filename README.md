@@ -1,13 +1,15 @@
 👋 Hi, I’m Juhász Szabolcs, a student of Codecool. I am Junior Full-Stack Developer who intrested in Devops sector.
 
 🚀 My Skills:
-Here are a few of my projects that I'm proud of:
 - Frontend: HTML, CSS, JavaScript
 - Backend: Python (Flask), Java, Javascript
 - Database: PostgreSQL
 - Devops: Bash, Docker, Kubernetes, AWS, Jenkins
+- Development Tools: JetBrains (PyCharm, IntelliJ IDEA), Microsoft Visual Studio 
 
 💻 Projects:
+Here are a few of my projects that I'm proud of:
+
 Web Apps:
 - https://github.com/CodecoolGlobal/freestyle-javascript-game-javascript-Z20LET
 - https://github.com/CodecoolGlobal/ask-mate-3-python-juhaszszabolcs90
