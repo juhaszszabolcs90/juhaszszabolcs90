@@ -1,16 +1,16 @@
 👋 Hi, I’m Juhász Szabolcs, a student of Codecool. I am Junior Full-Stack Developer who intrested in Devops sector.
 
-🚀 # My Skills:
+ # My Skills 🚀:
 - Frontend: HTML, CSS, JavaScript
 - Backend: Python (Flask), Java, Javascript
 - Database: PostgreSQL
 - Devops: Bash, Docker, Kubernetes, AWS, Jenkins, Terraform
 - Development Tools: JetBrains (PyCharm, IntelliJ IDEA), Microsoft Visual Studio 
 
-💻 # Projects: <br>
+Projects 💻: <br>
 Here are a few of my projects that I'm proud of:
 
-# Devops
+## Devops
 ### PYTHON ENVIRONMENT VARIABLES LISTER IN DOCKER
 - https://gitlab.com/juhaszszabolcs90/python-environment-variables-lister-in-docker
   
@@ -24,7 +24,7 @@ container image building and uploading.
 In this version of the application, I aim to refactor the team project AskMate and
 incorporate DevOps features.
 
-# Web Apps:
+## Web Apps:
   ### DINO GAME (freestyle javascript game)
 - https://github.com/CodecoolGlobal/freestyle-javascript-game-javascript-Z20LET
   
