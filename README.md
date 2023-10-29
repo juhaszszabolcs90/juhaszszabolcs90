@@ -10,13 +10,29 @@
 💻 Projects: <br>
 Here are a few of my projects that I'm proud of:
 
-Web Apps:
-- https://github.com/CodecoolGlobal/freestyle-javascript-game-javascript-Z20LET
-- https://github.com/CodecoolGlobal/ask-mate-3-python-juhaszszabolcs90
-- https://github.com/CodecoolGlobal/proman-1-python-Z-Kiss
-- https://github.com/CodecoolGlobal/codecool-shop-1-java-czlazlo
+# Devops
+### PYTHON ENVIRONMENT VARIABLES LISTER IN DOCKER
+- https://gitlab.com/juhaszszabolcs90/python-environment-variables-lister-in-docker
+The goal of the project is to create a simple Python program that lists all environmental
+variables on a system while providing a configured GitLab CI/CD process for automatic
+container image building and uploading.
 
-Devops
+### ASKMATE DEVOPS VERSION
 - https://github.com/juhaszszabolcs90/AskMate_Szabi_version
+In this version of the application, I aim to refactor the team project AskMate and
+incorporate DevOps features.
+
+# Web Apps:
+  ### DINO GAME (freestyle javascript game)
+- https://github.com/CodecoolGlobal/freestyle-javascript-game-javascript-Z20LET
+  
+  ### ASKMATE
+- https://github.com/CodecoolGlobal/ask-mate-3-python-juhaszszabolcs90
+  
+  ### PROMAN
+- https://github.com/CodecoolGlobal/proman-1-python-Z-Kiss
+  
+  ### CODECOOLSHOP
+- https://github.com/CodecoolGlobal/codecool-shop-1-java-czlazlo
 
 Here is my LinkedIn account: https://www.linkedin.com/in/szabolcs-juhász-5273b8223/
