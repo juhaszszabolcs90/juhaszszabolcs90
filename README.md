@@ -7,7 +7,7 @@
 - Devops: Bash, Docker, Kubernetes, AWS, Jenkins, Terraform
 - Development Tools: JetBrains (PyCharm, IntelliJ IDEA), Microsoft Visual Studio 
 
-## Projects 💻: <br>
+## Projects 💻:
 Here are a few of my projects that I'm proud of:
 
 ## Devops
