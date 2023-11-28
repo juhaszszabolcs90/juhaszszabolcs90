@@ -5,7 +5,8 @@
 - Backend: Python (Flask), Java, Javascript
 - Database: PostgreSQL
 - Devops: Bash, Docker, Kubernetes, AWS, Jenkins, Terraform
-- Development Tools: JetBrains (PyCharm, IntelliJ IDEA), Microsoft Visual Studio 
+- Test Automation: Selenium
+- Development Tools: JetBrains (PyCharm, IntelliJ IDEA), Visual Studio Code
 
 ## Projects 💻:
 Here are a few of my projects that I'm proud of:
