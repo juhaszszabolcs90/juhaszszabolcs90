@@ -11,7 +11,7 @@
 ## Projects 💻:
 Here are a few of my projects that I'm proud of:
 
-## Devops
+### Devops:
 #### PYTHON ENVIRONMENT VARIABLES LISTER IN DOCKER
 - https://gitlab.com/juhaszszabolcs90/python-environment-variables-lister-in-docker
   
@@ -25,7 +25,7 @@ container image building and uploading.
 In this version of the application, I aim to refactor the team project AskMate and
 incorporate DevOps features.
 
-## Web Apps:
+### Web Apps:
   #### DINO GAME (freestyle javascript game)
 - https://github.com/CodecoolGlobal/freestyle-javascript-game-javascript-Z20LET
   
