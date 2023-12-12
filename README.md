@@ -1,4 +1,4 @@
-👋 Hi, I’m Juhász Szabolcs, a student of Codecool. I am Junior Full-Stack Developer who intrested in Devops sector.
+👋 Hi, I’m Juhász Szabolcs, a student of Codecool. I am a Junior Full-Stack Developer who is interested in the Devops sector.
 
  ## My Skills 🚀:
 - Frontend: HTML, CSS, JavaScript
