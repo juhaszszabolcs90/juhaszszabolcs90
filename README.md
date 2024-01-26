@@ -1,31 +1,37 @@
-👋 Hi, I’m Juhász Szabolcs, a student of Codecool. I am a Junior Full-Stack Developer who is interested in the Devops sector.
+👋 Hi, I’m Juhász Szabolcs, a student of Codecool. I am a Junior Full-Stack Developer who is interested in the Devops and Test Automation sector.
 
- ## My Skills 🚀:
+ # My Skills 🚀:
 - Frontend: HTML, CSS, JavaScript
 - Backend: Python (Flask), Java, Javascript
 - Database: PostgreSQL
 - Devops: Bash, Docker, Kubernetes, AWS, Jenkins, Terraform
-- Test Automation: Selenium
+- Test Automation: Selenium (POM, KDT)
 - Development Tools: JetBrains (PyCharm, IntelliJ IDEA), Visual Studio Code
 
-## Projects 💻:
+# Projects 💻:
 Here are a few of my projects that I'm proud of:
 
-### Devops:
-#### PYTHON ENVIRONMENT VARIABLES LISTER IN DOCKER
+## Devops:
+  #### PYTHON ENVIRONMENT VARIABLES LISTER IN DOCKER
 - https://gitlab.com/juhaszszabolcs90/python-environment-variables-lister-in-docker
   
 The goal of the project is to create a simple Python program that lists all environmental
 variables on a system while providing a configured GitLab CI/CD process for automatic
 container image building and uploading.
 
-#### ASKMATE DEVOPS VERSION
+  #### ASKMATE DEVOPS VERSION
 - https://github.com/juhaszszabolcs90/AskMate_Szabi_version
   
 In this version of the application, I aim to refactor the team project AskMate and
 incorporate DevOps features.
 
-### Web Apps:
+## Test Automation
+ #### TESTING THE BROWSER WITH SELENIUM POM
+- https://github.com/juhaszszabolcs90/testing_the_browser_with_Selenium_POM
+
+In this project, I perform automated testing using Selenium. I tested navigation, field input, validation, and checkbox handling. #Selenium #AutomationTesting
+
+## Web Apps:
   #### DINO GAME (freestyle javascript game)
 - https://github.com/CodecoolGlobal/freestyle-javascript-game-javascript-Z20LET
   
