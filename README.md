@@ -1,6 +1,6 @@
 👋 Hi, I’m Juhász Szabolcs, a student of Codecool. I am a Junior Full-Stack Developer who is interested in the Devops and Test Automation sector.
 
- # My Skills 🚀:
+ # My Skills 🚀
 - Frontend: HTML, CSS, JavaScript
 - Backend: Python (Flask), Java, Javascript
 - Database: PostgreSQL
@@ -8,7 +8,7 @@
 - Test Automation: Selenium (POM, KDT)
 - Development Tools: JetBrains (PyCharm, IntelliJ IDEA), Visual Studio Code
 
-# Projects 💻:
+# Projects 💻
 Here are a few of my projects that I'm proud of:
 
 ## Devops:
@@ -27,14 +27,14 @@ In this version of the application, I aim to refactor the team project AskMate a
 incorporate DevOps features.
 
 ## Test Automation
-<img src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/05/DevOps-in-a-Selenium-Testing.png" alt="image" width="200" height="170">
+<img src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/05/DevOps-in-a-Selenium-Testing.png" alt="image" width="170" height="170">
  ### Testing the browser with Selenium POM
 - https://github.com/juhaszszabolcs90/testing_the_browser_with_Selenium_POM
 
 In this project, I perform automated testing using Selenium. I tested navigation, field input, validation, and checkbox handling. #Selenium #AutomationTesting
 
 ## Web Apps:
-<img src="https://marketing.celestialsys.com/wp-content/uploads/2019/07/blog7.jpg" alt="image" width="200" height="170">
+<img src="https://marketing.celestialsys.com/wp-content/uploads/2019/07/blog7.jpg" alt="image" width="190" height="170">
   ### Dino Game (freestyle javascript game)
 - https://github.com/CodecoolGlobal/freestyle-javascript-game-javascript-Z20LET
   
