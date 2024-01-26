@@ -13,7 +13,7 @@ Here are a few of my projects that I'm proud of:
 
 ## Devops:
 ### Python Environment variables lister in Docker
-https://gitlab.com/juhaszszabolcs90/python-environment-variables-lister-in-docker
+- https://gitlab.com/juhaszszabolcs90/python-environment-variables-lister-in-docker
   
 The goal of the project is to create a simple Python program that lists all environmental
 variables on a system while providing a configured GitLab CI/CD process for automatic
