@@ -25,7 +25,7 @@ container image building and uploading.
 In this version of the application, I aim to refactor the team project AskMate and
 incorporate DevOps features.
 
-## <img src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/05/DevOps-in-a-Selenium-Testing.png](https://cynoteck.com/wp-content/uploads/2019/07/what-is-selenium-cover.jpg" alt="image" width="170" height="140">  Test Automation
+## <img src="https://i.ytimg.com/vi/7BKjjXiGgoM/maxresdefault.jpg" alt="image" width="170" height="140">  Test Automation
  ### Testing the browser with Selenium POM
 - https://github.com/juhaszszabolcs90/testing_the_browser_with_Selenium_POM
 
