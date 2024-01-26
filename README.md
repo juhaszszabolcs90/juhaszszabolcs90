@@ -25,13 +25,13 @@ container image building and uploading.
 In this version of the application, I aim to refactor the team project AskMate and
 incorporate DevOps features.
 
-## Test Automation    <img src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/05/DevOps-in-a-Selenium-Testing.png" alt="image" width="170" height="170">
+## <img src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/05/DevOps-in-a-Selenium-Testing.png" alt="image" width="170" height="170">  Test Automation
  ### Testing the browser with Selenium POM
 - https://github.com/juhaszszabolcs90/testing_the_browser_with_Selenium_POM
 
 In this project, I perform automated testing using Selenium. I tested navigation, field input, validation, and checkbox handling. #Selenium #AutomationTesting
 
-## Web Apps:    <img src="https://marketing.celestialsys.com/wp-content/uploads/2019/07/blog7.jpg" alt="image" width="190" height="170">
+## <img src="https://marketing.celestialsys.com/wp-content/uploads/2019/07/blog7.jpg" alt="image" width="190" height="170">  Web Apps:
   ### Dino Game (freestyle javascript game)
 - https://github.com/CodecoolGlobal/freestyle-javascript-game-javascript-Z20LET
   
