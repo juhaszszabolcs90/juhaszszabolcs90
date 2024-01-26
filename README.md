@@ -9,7 +9,7 @@
 - Development Tools: JetBrains (PyCharm, IntelliJ IDEA), Visual Studio Code
 
 # Projects 💻
-##     <img src="https://octopus.com/devops/i/x/octopus-devops-infinity.png" alt="image" width="170" height="120">  Devops:
+##     <img src="https://octopus.com/devops/i/x/octopus-devops-infinity.png" alt="image" width="170" height="120">  ___Devops:
 ### Python Environment variables lister in Docker
 - https://gitlab.com/juhaszszabolcs90/python-environment-variables-lister-in-docker
   
@@ -23,13 +23,13 @@ container image building and uploading.
 In this version of the application, I aim to refactor the team project AskMate and
 incorporate DevOps features.
 
-##     <img src="https://www.slideteam.net/wp/wp-content/uploads/2023/08/selenium-banner-1013x441.png" alt="image" width="190" height="140">  Test Automation
+##     <img src="https://www.slideteam.net/wp/wp-content/uploads/2023/08/selenium-banner-1013x441.png" alt="image" width="190" height="140">  ___Test Automation:
  ### Testing the browser with Selenium POM
 - https://github.com/juhaszszabolcs90/testing_the_browser_with_Selenium_POM
 
 In this project, I perform automated testing using Selenium. I tested navigation, field input, validation, and checkbox handling. #Selenium #AutomationTesting
 
-##      <img src="https://marketing.celestialsys.com/wp-content/uploads/2019/07/blog7.jpg" alt="image" width="190" height="150">  Web Apps:
+##      <img src="https://marketing.celestialsys.com/wp-content/uploads/2019/07/blog7.jpg" alt="image" width="190" height="130">  ___Web Apps:
   ### Dino Game (freestyle javascript game)
 - https://github.com/CodecoolGlobal/freestyle-javascript-game-javascript-Z20LET
   
