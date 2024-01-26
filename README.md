@@ -12,6 +12,7 @@
 Here are a few of my projects that I'm proud of:
 
 ## Devops:
+<img src="https://octopus.com/devops/i/x/octopus-devops-infinity.png" alt="image" width="300" height="200">
 ### Python Environment variables lister in Docker
 - https://gitlab.com/juhaszszabolcs90/python-environment-variables-lister-in-docker
   
@@ -26,12 +27,14 @@ In this version of the application, I aim to refactor the team project AskMate a
 incorporate DevOps features.
 
 ## Test Automation
+<img src="https://www.softwaretestinghelp.com/wp-content/qa/uploads/2020/05/DevOps-in-a-Selenium-Testing.png" alt="image" width="300" height="200">
  ### Testing the browser with Selenium POM
 - https://github.com/juhaszszabolcs90/testing_the_browser_with_Selenium_POM
 
 In this project, I perform automated testing using Selenium. I tested navigation, field input, validation, and checkbox handling. #Selenium #AutomationTesting
 
 ## Web Apps:
+<img src="https://marketing.celestialsys.com/wp-content/uploads/2019/07/blog7.jpg" alt="image" width="300" height="200">
   ### Dino Game (freestyle javascript game)
 - https://github.com/CodecoolGlobal/freestyle-javascript-game-javascript-Z20LET
   
