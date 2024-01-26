@@ -11,7 +11,7 @@
 # Projects 💻
 Here are a few of my projects that I'm proud of:
 
-## Devops:   <img src="https://octopus.com/devops/i/x/octopus-devops-infinity.png" alt="image" width="170" height="120">
+## <img src="https://octopus.com/devops/i/x/octopus-devops-infinity.png" alt="image" width="170" height="120">  Devops:
 ### Python Environment variables lister in Docker
 - https://gitlab.com/juhaszszabolcs90/python-environment-variables-lister-in-docker
   
