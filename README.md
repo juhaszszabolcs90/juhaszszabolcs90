@@ -12,7 +12,7 @@
 Here are a few of my projects that I'm proud of:
 
 ## Devops:
-- PYTHON ENVIRONMENT VARIABLES LISTER IN DOCKER
+#### Python Environment variables lister in Docker
 https://gitlab.com/juhaszszabolcs90/python-environment-variables-lister-in-docker
   
 The goal of the project is to create a simple Python program that lists all environmental
